@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "IT-CORES"
+    }
+  },
+  "defaultProject": "IT-CORES",
+  "cli": {
+    "analytics": "c1caa711-6021-4379-aa36-ce83767fa24c"
+  }
 }
